@@ -1,0 +1,61 @@
+    body {
+    margin-left: 400px;
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/3/3e/Hot_Stuff_the_Little_Devil.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: #F0F8FF;
+    margin-right: 400px;
+    }
+
+    h1 { 
+      background: url(https://www.sciencenews.org/sites/default/files/2016/10/main/articles/102116_EC_bubble_nucleus_main_0.jpg);
+      text-align: center;
+      text-transform: capitalize; 
+      font-size: 180%;
+      font-family: Arial;
+      font-style: normal;
+      font-weight: bold;
+      color: white;
+      text-decoration: underline;
+      padding:  25px 10px 50px 10px;
+      float: none;
+      line-height: normal;
+     }
+    
+    .zanr, .autor, .zdroj {
+      text-align: center;
+      color: blue;
+      font-family: Arial;
+      font-style: normal; 
+      float: none; 
+    }
+
+    li, ul {
+      background-color: #6495ED;
+      color: #F0F8FF;
+      text-align: justify; 
+      font-family: Arial;
+      font-style: normal;
+      border-style: solid;
+      border-width: 0.5px;
+      border-color: #000000;
+      float: none;
+      line-height: 1;
+    }
+
+    h2 {
+      text-decoration: underline;
+      text-align: center;
+      color: blue;
+      font-family: Arial;
+      font-style: normal;
+      font-weight: bold;
+      float: none;
+    }
+
+    p, blockquote {
+      font-family: Arial;
+      font-style: normal; 
+      float: none; 
+    }
